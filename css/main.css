@@ -41,7 +41,8 @@ ul.posts li {
 }
 
 #hero-image {
-    background: url("../../images/neural-networks.jpg");
-    width: 640px;
-    height: 360px;
+    background: url(../images/neural-networks.jpg) no-repeat;
+    width: 100%;
+    height: 450px;
+    background-size: cover;
 }
